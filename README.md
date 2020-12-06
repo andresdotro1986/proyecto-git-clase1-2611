@@ -7,7 +7,7 @@ Este repositorio fue creado para el curso de Git de educacion it
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+e the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
 pip install foobar
@@ -18,7 +18,7 @@ pip install foobar
 ```python
 import foobar
 
-foobar.pluralize('word') # returns 'words'
+foobar.pluralize('word') # returns 'word
 foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
@@ -29,4 +29,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/
